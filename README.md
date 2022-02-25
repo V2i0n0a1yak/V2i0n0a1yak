@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @V2i0n0a1yak
 - 👀 I’m interested in to create programming company....
 - 🌱 I’m currently learning all programming language .
-- 💞️ I’m looking to collaborate on Deep learning in Artiffical intelegence.
+- ⚡ I’m looking to collaborate on Deep learning in Artiffical intelegence and datascience 
 - 📫 How to reach me Email_id: satardekarvinayak7@gmail.com
 
 <!---
